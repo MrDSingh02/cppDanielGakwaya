@@ -60,6 +60,7 @@ Here are all the topics covered in this course:
 
 ## Chapter 1: Setting up the tools
 
+> Timeline [00h:04m:32s](https://www.youtube.com/watch?v=8jLOx1hD3_o&t=272s)
 * Tools
 * Installing C++ Compilers on Windows
 * Installing VS Code on Windows
@@ -76,6 +77,7 @@ Here are all the topics covered in this course:
 
 ## Chapter 2: Diving in
 
+> Timeline [01h:43m:01](https://www.youtube.com/watch?v=8jLOx1hD3_o&t=6181s)
 * Your First C++ Program
 * Comments
 * Errors and Warnings
@@ -88,6 +90,7 @@ Here are all the topics covered in this course:
 
 ## Chapter 3: Variables and data types
 
+> Timeline [03h:00m:47s](https://www.youtube.com/watch?v=8jLOx1hD3_o&t=10847s)
 * Variables and data types Introduction
 * Number Systems
 * Integer types : Decimals and Integers
