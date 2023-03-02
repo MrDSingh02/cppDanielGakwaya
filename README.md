@@ -56,7 +56,7 @@ Here are all the topics covered in this course:
     > Timeline [26h:21m:03s or 1d:02h:21m:05s](https://www.youtube.com/watch?v=8jLOx1hD3_o&t=94863s)
  
 
----
+--- 
 
 ## Chapter 1: Setting up the tools
 
