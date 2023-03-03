@@ -20,6 +20,15 @@ Here are all the topics covered in this course:
     > Timeline [00h:04m:32s](https://www.youtube.com/watch?v=8jLOx1hD3_o&t=272s)
 02. [CH 02 | DRIVING IN | ](/README.md#chapter-2-diving-in)     
     > Timeline [01h:43m:01](https://www.youtube.com/watch?v=8jLOx1hD3_o&t=6181s)
+    >* [Your First C++ Program](/README.md#21-your-first-c-program)
+    >* [Comments](/README.md#22-comments)
+    >* [Errors and Warnings](/README.md#23-errors-and-warnings)
+    >* [Statements and Functions](/README.md#24-statements-and-functions)
+    >* [Data input and output](/README.md#25-data-input-output)
+    >* [C++ Program Execution Model](/README.md#26-c-progaram-execution-model)
+    >* [C++ core language Vs Standard library Vs STL](/README.md#27-c-core-language-vs-standard-library-vs-stl)
+
+
 03. [CH 03 | VARIABLES AND DATA TYPES | ](/README.md#chapter-3-variables-and-data-types)        
     > Timeline [03h:00m:47s](https://www.youtube.com/watch?v=8jLOx1hD3_o&t=10847s)
 04. [CH 04 | OPERATIONS ON DATA | ](/README.md#chapter-4-operations-on-data)        
@@ -78,13 +87,66 @@ Here are all the topics covered in this course:
 ## Chapter 2: Diving in
 
 > Timeline [01h:43m:01](https://www.youtube.com/watch?v=8jLOx1hD3_o&t=6181s)
-* Your First C++ Program
-* Comments
-* Errors and Warnings
-* Statements and Functions
-* Data input and output
-* C++ Program Execution Model
-* C++ core language Vs Standard library Vs STL
+* [Your First C++ Program](/README.md#21-your-first-c-program)
+* [Comments](/README.md#22-comments)
+* [Errors and Warnings](/README.md#23-errors-and-warnings)
+* [Statements and Functions](/README.md#24-statements-and-functions)
+* [Data input and output](/README.md#25-data-input-output)
+* [C++ Program Execution Model](/README.md#26-c-progaram-execution-model)
+* [C++ core language Vs Standard library Vs STL](/README.md#27-c-core-language-vs-standard-library-vs-stl)
+
+### 2.1 Your First C++ Program
+
+> Timeline 
+
+* Basic Cpp file  
+> `#include <iostream>` it means add input/output library    
+> ` int main(){};` First function of program or first program to run
+
+    >> #include <iostream>         
+    >> int main(int argc, char const *argv[]){         
+    >>     int a{2};           
+    >>     std::cout<<"Hello World!"<<a<<std::endl;            
+    >>     return 0;           
+    >> }
+> ` std::cout ` Give the Output ` << >> ` show the flow of data ` std::endl ` end the line.    
+> ` return 0 ` End the Programm and Return 0.
+> ` ; ` At End of Every line without it you can have error.
+Compile Code in Terminal    
+    
+    >> g++ -std=c++20 -o outputfileName SourceFile.cpp     
+    >> clang++ -std=c++20 -o output Sourcefile.cpp
+Run Code in Terminal    
+    
+    >> ./output
+
+### 2.2 Comments
+
+> Timeline 1h:55m:58s
+
+
+
+### 2.3 Errors And Warnings
+
+> Timeline
+
+### 2.4 Statements And Functions
+
+> Timeline
+
+### 2.5 Data Input Output
+
+> Timeline
+
+### 2.6 C++ Progaram Execution Model
+
+> Timeline
+
+### 2.7 C++ Core Language Vs Standard Library Vs STL
+
+> Timeline
+
+
 
 ---
 
