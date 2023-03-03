@@ -14,58 +14,11 @@ Here are all the topics covered in this course:
 ---
 ## Over View
 
-00. Introduction 
-    > Timeline [00:00:00](https://www.youtube.com/watch?v=8jLOx1hD3_o&t=272s)
-01. [CH 01 | SETTING UP THE TOOLS | ](/README.md#chapter-1-setting-up-the-tools)        
-    > Timeline [00h:04m:32s](https://www.youtube.com/watch?v=8jLOx1hD3_o&t=272s)
-02. [CH 02 | DRIVING IN | ](/README.md#chapter-2-diving-in)     
-    > Timeline [01h:43m:01](https://www.youtube.com/watch?v=8jLOx1hD3_o&t=6181s)
-    >* [Your First C++ Program](/README.md#21-your-first-c-program)
-    >* [Comments](/README.md#22-comments)
-    >* [Errors and Warnings](/README.md#23-errors-and-warnings)
-    >* [Statements and Functions](/README.md#24-statements-and-functions)
-    >* [Data input and output](/README.md#25-data-input-output)
-    >* [C++ Program Execution Model](/README.md#26-c-progaram-execution-model)
-    >* [C++ core language Vs Standard library Vs STL](/README.md#27-c-core-language-vs-standard-library-vs-stl)
+## Introduction 
 
+> Timeline [00:00:00](https://www.youtube.com/watch?v=8jLOx1hD3_o&t=272s)
 
-03. [CH 03 | VARIABLES AND DATA TYPES | ](/README.md#chapter-3-variables-and-data-types)        
-    > Timeline [03h:00m:47s](https://www.youtube.com/watch?v=8jLOx1hD3_o&t=10847s)
-04. [CH 04 | OPERATIONS ON DATA | ](/README.md#chapter-4-operations-on-data)        
-    > Timeline [04h:46m:46s](https://www.youtube.com/watch?v=8jLOx1hD3_o&t=17206s)
-05. [CH 05 | FLOW CONTROL | ](/README.md#chapter-5-flow-control)        
-    > Timeline [07h:01m:58s](https://www.youtube.com/watch?v=8jLOx1hD3_o&t=25318s)
-06. [CH 06 | LOOPS | ](/README.md#chapter-6-loops)      
-    > Timeline [07h:53m:49s](https://www.youtube.com/watch?v=8jLOx1hD3_o&t=28429s)
-07. [CH 07 | ARRAYS | ](/README.md#chapter-7-arrays)        
-    > Timeline [08h:47m:08s](https://www.youtube.com/watch?v=8jLOx1hD3_o&t=31628s)
-08. [CH 08 | POINTERS | ](/README.md#chapter-8-pointers)        
-    > Timeline [09h:53m:23s](https://www.youtube.com/watch?v=8jLOx1hD3_o&t=35603s)
-09. [CH 09 | REFERENCES | ](/README.md#chapter-9-references)        
-    > Timeline [12h:11m:04s](https://www.youtube.com/watch?v=8jLOx1hD3_o&t=43864s)
-10. [CH 10 | CHARACTER MANIPULATION AND STRINGS | ](/README.md#chapter-10-character-manipulation-and-strings)       
-    > Timeline [12h:44m:29s](https://www.youtube.com/watch?v=8jLOx1hD3_o&t=45869s)
-11. [CH 11 | FUNCTIONS | T - ](/README.md#chapter-11-functions)     
-    > Timeline [14h:12m:47s](https://www.youtube.com/watch?v=8jLOx1hD3_o&t=51167s)
-12. [CH 12 | GETTING THINGS OUT OF FUNCTIONS | ](/README.md#chapter-12-getting-things-out-of-functions)
-    > Timeline [16h:03m:20s](https://www.youtube.com/watch?v=8jLOx1hD3_o&t=57800s)
-13. [CH 13 | FUNCTION OVERLOADING | ](/README.md#chapter-13-function-overloading)       
-    > Timeline [16h:32m:35s](https://www.youtube.com/watch?v=8jLOx1hD3_o&t=59555s)
-14. [CH 14 | LAMBDA FUNCTION | ](/README.md#chapter-14-lambda-functions)        
-    > Timeline [16h:49m:00s](https://www.youtube.com/watch?v=8jLOx1hD3_o&t=60540s)
-15. [CH 15 | FUNCTION TEMPLATES | ](/README.md#chapter-15-function-templates)       
-    > Timeline [17h:40m:08s](https://www.youtube.com/watch?v=8jLOx1hD3_o&t=63608s)
-16. [CH 16 | C20 CONCEPTS | ](/README.md#chapter-16-c20-concepts-crash-course)      
-    > Timeline [19h:04m:31s](https://www.youtube.com/watch?v=8jLOx1hD3_o&t=68671s)
-17. [CH 17 | CLASSES | ](/README.md#chapter-17-classes)     
-    > Timeline [20h:15m:40s](https://www.youtube.com/watch?v=8jLOx1hD3_o&t=72940s)
-18. [CH 18 | INHERITANCE | ](/README.md#chapter-18-inheritance)     
-    > Timeline [22h:52m:43s or ](https://www.youtube.com/watch?v=8jLOx1hD3_o&t=82363s)
-19. [CH 19 | Polymorphism | ](/README.md#chapter-19-polymorphism)Time       
-    > Timeline [26h:21m:03s or 1d:02h:21m:05s](https://www.youtube.com/watch?v=8jLOx1hD3_o&t=94863s)
- 
-
---- 
+---
 
 ## Chapter 1: Setting up the tools
 
@@ -87,86 +40,43 @@ Here are all the topics covered in this course:
 ## Chapter 2: Diving in
 
 > Timeline [01h:43m:01](https://www.youtube.com/watch?v=8jLOx1hD3_o&t=6181s)
-* [Your First C++ Program](/README.md#21-your-first-c-program)
-* [Comments](/README.md#22-comments)
-* [Errors and Warnings](/README.md#23-errors-and-warnings)
-* [Statements and Functions](/README.md#24-statements-and-functions)
-* [Data input and output](/README.md#25-data-input-output)
-* [C++ Program Execution Model](/README.md#26-c-progaram-execution-model)
-* [C++ core language Vs Standard library Vs STL](/README.md#27-c-core-language-vs-standard-library-vs-stl)
 
-### 2.1 Your First C++ Program
+### 2.1 [Your First C++ Program T:- 01h:43m:01s](./2-divingIn/2.1-firstCppProgram/readme.md)
 
-> Timeline 
+### 2.2 [Comments T:- 1h:55m:58s](./2-divingIn/2.2-comments/readme.md)
 
-* Basic Cpp file  
-> `#include <iostream>` it means add input/output library    
-> ` int main(){};` First function of program or first program to run
+### 2.3 [Errors And Warnings T:- 2h:01m:59s](./2-divingIn/2.3-errorsAndWarnings/readme.md)
 
-    >> #include <iostream>         
-    >> int main(int argc, char const *argv[]){         
-    >>     int a{2};           
-    >>     std::cout<<"Hello World!"<<a<<std::endl;            
-    >>     return 0;           
-    >> }
-> ` std::cout ` Give the Output ` << >> ` show the flow of data ` std::endl ` end the line.    
-> ` return 0 ` End the Programm and Return 0.
-> ` ; ` At End of Every line without it you can have error.
-Compile Code in Terminal    
-    
-    >> g++ -std=c++20 -o outputfileName SourceFile.cpp     
-    >> clang++ -std=c++20 -o output Sourcefile.cpp
-Run Code in Terminal    
-    
-    >> ./output
+### 2.4 [Statements And Functions T- 02h:13m:13s]()
 
-### 2.2 Comments
+### 2.5 [Data Input Output]()
 
-> Timeline 1h:55m:58s
+### 2.6 [C++ Progaram Execution Model]()
 
-
-
-### 2.3 Errors And Warnings
-
-> Timeline
-
-### 2.4 Statements And Functions
-
-> Timeline
-
-### 2.5 Data Input Output
-
-> Timeline
-
-### 2.6 C++ Progaram Execution Model
-
-> Timeline
-
-### 2.7 C++ Core Language Vs Standard Library Vs STL
-
-> Timeline
-
-
+### 2.7 [C++ Core Language Vs Standard Library Vs STL]()
 
 ---
 
 ## Chapter 3: Variables and data types
-
+     
 > Timeline [03h:00m:47s](https://www.youtube.com/watch?v=8jLOx1hD3_o&t=10847s)
-* Variables and data types Introduction
-* Number Systems
-* Integer types : Decimals and Integers
-* Integer Modifiers
-* Fractional Numbers
-* Booleans
-* Characters And Text
-* Auto
-* Assignments
-* Variables and data types summary
+
+### 3.1[Variables and data types Introduction]()
+### 3.2[Number Systems]()
+### 3.3[Integer types : Decimals and Integers]()
+### 3.4[Integer Modifiers]()
+### 3.5[Fractional Numbers]()
+### 3.6[Booleans]()
+### 3.7[Characters And Text]()
+### 3.8[Auto]()
+### 3.9[Assignments]()
+### 3.10[Variables and data types summary]()
 
 ---
 
 ## Chapter 4: Operations on Data
+       
+> Timeline [04h:46m:46s](https://www.youtube.com/watch?v=8jLOx1hD3_o&t=17206s)
 
 * Introduction on Data operations
 * Basic Operations
@@ -184,6 +94,8 @@ Run Code in Terminal
 ---
 
 ## Chapter 5: Flow Control
+      
+> Timeline [07h:01m:58s](https://www.youtube.com/watch?v=8jLOx1hD3_o&t=25318s)
 
 *  Flow Control Introduction
 *  If Statements
@@ -195,6 +107,8 @@ Run Code in Terminal
 ---
 
 ## Chapter 6: Loops
+   
+> Timeline [07h:53m:49s](https://www.youtube.com/watch?v=8jLOx1hD3_o&t=28429s)
 
 *  Loops Introduction
 *  For Loop
@@ -204,6 +118,8 @@ Run Code in Terminal
 ---
 
 ## Chapter 7: Arrays
+      
+> Timeline [08h:47m:08s](https://www.youtube.com/watch?v=8jLOx1hD3_o&t=31628s)
 
 * Introduction to Arrays
 * Declaring and using arrays
@@ -212,8 +128,10 @@ Run Code in Terminal
 * Array Bounds
 
 ---
-
+    
 ## Chapter 8: Pointers
+
+> Timeline [09h:53m:23s](https://www.youtube.com/watch?v=8jLOx1hD3_o&t=35603s)
 
 * Introduction to Pointers
 * Declaring and using pointers
@@ -229,6 +147,8 @@ Run Code in Terminal
 ---
 
 ## Chapter 9: References
+     
+> Timeline [12h:11m:04s](https://www.youtube.com/watch?v=8jLOx1hD3_o&t=43864s)
 
 * Introduction to References
 * Declaring and using references
@@ -236,8 +156,10 @@ Run Code in Terminal
 * References and const
 
 ---
-
+       
 ## Chapter 10: Character Manipulation and Strings
+
+> Timeline [12h:44m:29s](https://www.youtube.com/watch?v=8jLOx1hD3_o&t=45869s)
 
 * Introduction to Strings
 * Character Manipulation
@@ -249,6 +171,8 @@ Run Code in Terminal
 ---
 
 ## Chapter 11: Functions
+
+> Timeline [14h:12m:47s](https://www.youtube.com/watch?v=8jLOx1hD3_o&t=51167s)
 
 * The One Definition Rule
 * First Hand on C++ Functions
@@ -262,6 +186,8 @@ Run Code in Terminal
 
 ## Chapter 12: Getting Things out of functions
 
+> Timeline [16h:03m:20s](https://www.youtube.com/watch?v=8jLOx1hD3_o&t=57800s)
+
 * Introduction to getting things out of functions
 * Input and output parameters
 * Returning from functions by value
@@ -270,12 +196,15 @@ Run Code in Terminal
 
 ## Chapter 13: Function Overloading
 
+> Timeline [16h:32m:35s](https://www.youtube.com/watch?v=8jLOx1hD3_o&t=59555s)
 * Function Overloading Introduction
 * Overloading with different parameters
 
 ---
 
 ## Chapter 14: Lambda functions
+     
+> Timeline [16h:49m:00s](https://www.youtube.com/watch?v=8jLOx1hD3_o&t=60540s)
 
 * Introduction to Lambda Functions
 * Declaring and using lambda functions
@@ -286,7 +215,8 @@ Run Code in Terminal
 ---
 
 ## Chapter 15: Function Templates
-
+   
+> Timeline [17h:40m:08s](https://www.youtube.com/watch?v=8jLOx1hD3_o&t=63608s)
 * Introduction to function templates
 * Trying out function templates
 * Template type deduction and explicit arguments
@@ -294,9 +224,10 @@ Run Code in Terminal
 * Template specialization
 
 ---
-
+    
 ## Chapter 16: C++20 Concepts Crash course
 
+> Timeline [19h:04m:31s](https://www.youtube.com/watch?v=8jLOx1hD3_o&t=68671s)
 * Introduction to C++20 Concepts
 * Using C++20 Concepts
 * Building your own C++20 Concepts
@@ -308,6 +239,7 @@ Run Code in Terminal
 
 ## Chapter 17: Classes
 
+> Timeline [20h:15m:40s](https://www.youtube.com/watch?v=8jLOx1hD3_o&t=72940s)
 * Introduction to classes
 * Your First Class
 * C++ Constructors
@@ -325,6 +257,7 @@ Run Code in Terminal
 
 ## Chapter 18: Inheritance
 
+> Timeline [22h:52m:43s or ](https://www.youtube.com/watch?v=8jLOx1hD3_o&t=82363s)
 * Introduction to Inheritance
 * First try on Inheritance
 * Protected members
@@ -340,9 +273,10 @@ Run Code in Terminal
 * Reused Symbols in Inheritance
 
 ---
-
+ 
 ## Chapter 19: Polymorphism
 
+> Timeline [26h:21m:03s or 1d:02h:21m:05s](https://www.youtube.com/watch?v=8jLOx1hD3_o&t=94863s)
 * Introduction to Polymorphism
 * Static Binding with Inheritance
 * Dynamic binding with virtual functions
