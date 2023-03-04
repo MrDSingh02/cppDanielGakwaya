@@ -47,7 +47,7 @@ Here are all the topics covered in this course:
 
 ### 2.3 [Errors And Warnings T:- 2h:01m:59s](./2-divingIn/2.3-errorsAndWarnings/readme.md)
 
-### 2.4 [Statements And Functions T- 02h:13m:13s]()
+### 2.4 [Statements And Functions T- 02h:13m:13s](./2-divingIn/2.4-statementsAndFunction/readme.md)
 
 ### 2.5 [Data Input Output]()
 
