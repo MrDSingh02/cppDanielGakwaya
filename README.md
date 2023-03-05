@@ -53,7 +53,7 @@ Here are all the topics covered in this course:
 
 ### 2.6 [C++ Progaram Execution Model](./2-divingIn/2.6-CppProgramsExecutionModelAndMemoryModel/readme.md)
 
-### 2.7 [C++ Core Language Vs Standard Library Vs STL]()
+### 2.7 [C++ Core Language Vs Standard Library Vs STL](./2-divingIn/2.7-CppCoreLanguageVsStandardLibraryVsSTL/readme.md)
 
 ---
 
