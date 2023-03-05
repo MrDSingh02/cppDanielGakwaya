@@ -1,8 +1,9 @@
 // ! Template
 // ? Time :||
 // * Code :||
-// Todo
-// //
+// Todo: | g++ -std=c++20 -o gccBuild main.cpp |
+// Todo: | clang++ -std=c++20 -o clangBuild main.cpp |
+// // 
 /*
 # CH 2 Diving In
 
