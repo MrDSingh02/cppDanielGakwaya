@@ -1,18 +1,11 @@
-// ! Template
-// ? Time :||
+// ! 2.6 C++ Program Execution model and Memory Model
+// ? Time :| 2h : 49m : 57s |
 // * Code :||
 // Todo: | g++ -std=c++20 -o gccBuild main.cpp |
 // Todo: | clang++ -std=c++20 -o clangBuild main.cpp |
 // // 
 /*
-# CH 2 Diving In
 
-## 2.5 Data Input And OutPut
-
-Time : | 2h : 31m : 35s |
-Code : | |
-* [main.cpp](./main.cpp)
-* [Home](/README.md)
 */
 #include<iostream>
 
