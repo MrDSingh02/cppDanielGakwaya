@@ -2,6 +2,9 @@
 
 ## 2.1 First Cpp Program
 
+* [main.cpp](./main.cpp)
+* [Home](/README.md)
+
 > Timeline 
 
 * Basic Cpp file  
