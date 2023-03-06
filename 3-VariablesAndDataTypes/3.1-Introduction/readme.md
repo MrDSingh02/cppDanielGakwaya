@@ -2,7 +2,9 @@
 
 ## 3.1 Intoduction
 
-Time : | 2h : 31m : 35s |
+Time : | 03h : 00m : 47s |
 Code : | |
 * [main.cpp](./main.cpp)
 * [Home](/README.md)
+
+---
