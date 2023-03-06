@@ -151,3 +151,5 @@ Octal Representation
 
 ![use of number sytem in cpp](./img/12-useOfNSinCpp.png "Use of Number Systems in Cpp")
 
+>Note:
+![note](./img/13-note.png "Notes")
