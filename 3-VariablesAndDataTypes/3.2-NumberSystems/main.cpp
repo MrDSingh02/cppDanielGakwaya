@@ -11,7 +11,7 @@
 
 int main(int argc, char const *argv[])
 {
-    std::cout<<"---------------- 3.1 Variables And Data Types Introduction ---------------------------"
+    std::cout<<"---------------- 3.2 Number Systems ---------------------------"
     <<std::endl;
     std::cout<<" == == == == == == == == == == == == == == == == == == == == == == == == == == == == == "
     <<std::endl;
