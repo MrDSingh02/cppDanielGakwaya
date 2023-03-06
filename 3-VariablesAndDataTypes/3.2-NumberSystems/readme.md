@@ -3,7 +3,7 @@
 # 3.2 Number Systems
 
 Time : | 3h : 05m : 06s |
-Code : | |
+Code : | 3h : 17m : 32s |
 * [main.cpp](./main.cpp)
 * [Home](/README.md)
 
@@ -96,11 +96,58 @@ Number Systems allow us to Transform the data from the form that is really conve
 | Digit 5 | 01011  | 11      | | Digit 5 | 11100  | 28      |
 | Digit 5 | 01100  | 12      | | Digit 5 | 11101  | 29      |
 | Digit 5 | 01101  | 13      | | Digit 5 | 11110  | 30      |
-| Digit 5 | 01110  | 14      | | Digit 5 | -----  | 31      |
-| Digit 5 | 01111  | 15      | | Digit 5 | 11111  | 32      |
+| Digit 5 | 01110  | 14      | | Digit 5 | 11111  | 31      |
+| Digit 5 | 01111  | 15      | 
 | Digit 5 | 10000  | 16      |
 
 ![5 Digits binary and decimal](./img/03-5digit_binary%20andDecimal.png "% digit binary")
 > 5 digit Binary In memory
 ![5 Digits binary and decimal](./img/04-5digit%20binaryinmemory.png "% digit binary")
+
+### Generalization
+
+| Digits | Data Range |
+|--------|------------|
+| 1      | 0 ~ 1      |
+| 2      | 0 ~ 3      |
+| 3      | 0 ~ 7      |
+| 4      | 0 ~ 15     |
+| 5      | 0 ~ 31     |
+| ...    | ....       |
+| n | 0 ~ 2<sup>n</sup> - 1|
+
+> In Practice
+![In Practice](./img/05-inPractice.png "In Practic")
+
+---
+
+## HexaDecimal Systems
+
+In Memory
+![HexaDecimal Systems](./img/06-HexadecimalSystems.png "Hexa-deciaml")
+
+Hexadecimal, Binary and Decimal
+![HexaDecimal Systems](./img/07-hexadecimal.png "Hexa-deciaml")
+
+Binary, Hexadecimal Representation
+![HexaDecimal Systems](./img/08-hexBinaryRepresentation.png "Hexa-deciaml")
+
+Padding
+![HexaDecimal Systems](./img/09-padding.png "Hexa-deciaml")
+if we have binary that don't fit in group of 4 wee add 0 at left.
+
+---
+
+## Octal Systemsx
+
+![Ocatal Systems](./img/10-octalsytrms.png "Octal Systems")
+
+Octal Representation
+![Octal Representaion](./img/11-octal.png "Representation")
+
+---
+
+## Use of Number systems in C++
+
+![use of number sytem in cpp](./img/12-useOfNSinCpp.png "Use of Number Systems in Cpp")
 
