@@ -3,7 +3,7 @@
 # 3.3 Integers Type : Integer and Decimals
 
 Time : | 3h : 21m : 53s |
-Code : | |
+Code : | 3H : 29M : 34S |
 * [main.cpp](./main.cpp)
 * [Home](/README.md)
 
@@ -19,6 +19,34 @@ Code : | |
 
 > Variable : A Named piece of memory that you use to store specific types of data.
 
+---
+
+## VARIABLE INITIALIZATION
+
+* Braced Initialization
+* functional initialization
+* Assignment initialization
+
 ### Variable Braced initialization
 
 ![Variable Braced Initialigation](./img/2-VariableBraced.png "Variable Braced Initialigation")
+
+### Functional Variable initalization
+
+![Functional Variable initialization](./img/3-functionalVariables.png "FUNCTIONAL VARIABLE INITIALIZATION")
+
+### Assignment Initialization
+
+![Assignment Initialization](./img/4-assignmentINITIALIZATION.png "ASSIGNMENT INTIALIZATION")
+
+## Size of a Type in Memory
+
+![size of a type](./img/5-sizeOFType.png "size of a type in memory")
+
+>representation of `int` in memory
+![Integers in memory](./img/6-INtegrdINmemory.png "3 `int` In Memory")
+
+## Variables
+
+> Variable initialization
+![variable Initialigation](./img/7-VARIABLE.png "VARIABLE INTIALIZATION")
