@@ -61,7 +61,7 @@ Here are all the topics covered in this course:
      
 > Timeline [03h:00m:47s](https://www.youtube.com/watch?v=8jLOx1hD3_o&t=10847s)
 
-### 3.1[Variables and data types Introduction]()
+### 3.1[Variables and data types Introduction](./3-VariablesAndDataTypes/3.1-Introduction/readme.md)
 ### 3.2[Number Systems]()
 ### 3.3[Integer types : Decimals and Integers]()
 ### 3.4[Integer Modifiers]()
