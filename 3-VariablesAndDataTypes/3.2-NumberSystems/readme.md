@@ -80,37 +80,27 @@ Number Systems allow us to Transform the data from the form that is really conve
 
 ### 5 Digit Binar And Decimal
 
-| Digits | Binary | Decimal |
-|--------|--------|---------|
-| Digit 5 | 00000 | 0 |
-| Digit 5 | 00001 | 1 |
-| Digit 5 | 00010 | 2 |
-| Digit 5 | 00011 | 3 |
-| Digit 5 | 00100 | 4 |
-| Digit 5 | 00101 | 5 |
-| Digit 5 | 00110 | 6 |
-| Digit 5 | 00111 | 7 |
-| Digit 5 | 01000 | 8 |
-| Digit 5 | 01001 | 9 |
-| Digit 5 | 01010 | 10 |
-| Digit 5 | 01011 | 11 |
-| Digit 5 | 01100 | 12 |
-| Digit 5 | 01101 | 13 |
-| Digit 5 | 01110 | 14 |
-| Digit 5 | 01111 | 15 |
-| Digit 5 | 00000 | 0 |
-| Digit 5 | 00001 | 1 |
-| Digit 5 | 00010 | 2 |
-| Digit 5 | 00011 | 3 |
-| Digit 5 | 00100 | 4 |
-| Digit 5 | 00101 | 5 |
-| Digit 5 | 00110 | 6 |
-| Digit 5 | 00111 | 7 |
-| Digit 5 | 01000 | 8 |
-| Digit 5 | 01001 | 9 |
-| Digit 5 | 01010 | 10 |
-| Digit 5 | 01011 | 11 |
-| Digit 5 | 01100 | 12 |
-| Digit 5 | 01101 | 13 |
-| Digit 5 | 01110 | 14 |
-| Digit 5 | 01111 | 15 |
+| Digits  | Binary | Decimal | | Digits  | Binary | Decinmal|
+|---------|------- |---------|-|---------|--------|---------|
+| Digit 5 | 00000  | 0       | | Digit 5 | 10001  | 17      |
+| Digit 5 | 00001  | 1       | | Digit 5 | 10010  | 18      |
+| Digit 5 | 00010  | 2       | | Digit 5 | 10011  | 19      |
+| Digit 5 | 00011  | 3       | | Digit 5 | 10100  | 20      |
+| Digit 5 | 00100  | 4       | | Digit 5 | 10101  | 21      |
+| Digit 5 | 00101  | 5       | | Digit 5 | 10110  | 22      |
+| Digit 5 | 00110  | 6       | | Digit 5 | 10111  | 23      |
+| Digit 5 | 00111  | 7       | | Digit 5 | 11000  | 24      |
+| Digit 5 | 01000  | 8       | | Digit 5 | 11001  | 25      |
+| Digit 5 | 01001  | 9       | | Digit 5 | 11010  | 26      |
+| Digit 5 | 01010  | 10      | | Digit 5 | 11011  | 27      |
+| Digit 5 | 01011  | 11      | | Digit 5 | 11100  | 28      |
+| Digit 5 | 01100  | 12      | | Digit 5 | 11101  | 29      |
+| Digit 5 | 01101  | 13      | | Digit 5 | 11110  | 30      |
+| Digit 5 | 01110  | 14      | | Digit 5 | -----  | 31      |
+| Digit 5 | 01111  | 15      | | Digit 5 | 11111  | 32      |
+| Digit 5 | 10000  | 16      |
+
+![5 Digits binary and decimal](./img/03-5digit_binary%20andDecimal.png "% digit binary")
+> 5 digit Binary In memory
+![5 Digits binary and decimal](./img/04-5digit%20binaryinmemory.png "% digit binary")
+
