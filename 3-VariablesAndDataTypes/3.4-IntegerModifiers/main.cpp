@@ -1,6 +1,6 @@
 //! 3.4 Integer Modifiers
 // ? Time :| 3h : 40m : 45s |
-// * Code :||
+// * Code :| 3h : 44m : 46s |
 // Todo: | g++ -std=c++20 -o build.gcc main.cpp |
 // Todo: | clang++ -std=c++20 -o build.clang main.cpp |
 // // 

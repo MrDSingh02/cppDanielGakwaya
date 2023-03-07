@@ -3,7 +3,7 @@
 # 3.4 Integer Modifiers
 
 Time : | 3h : 40m : 45s |
-Code : | |
+Code : | 3h : 44m : 46s |
 * [main.cpp](./main.cpp)
 * [Home](/README.md)
 
