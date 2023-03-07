@@ -64,7 +64,7 @@ Here are all the topics covered in this course:
 ### 3.1[Variables and data types Introduction](./3-VariablesAndDataTypes/3.1-Introduction/readme.md)
 ### 3.2[Number Systems](./3-VariablesAndDataTypes/3.2-NumberSystems/readme.md)
 ### 3.3[Integer types : Decimals and Integers](./3-VariablesAndDataTypes/3.3-IntegerTypes-IntegersAndDecimals/readme.md)f
-### 3.4[Integer Modifiers]()
+### 3.4[Integer Modifiers](./3-VariablesAndDataTypes/3.4-IntegerModifiers/readme.md)
 ### 3.5[Fractional Numbers]()
 ### 3.6[Booleans]()
 ### 3.7[Characters And Text]()
