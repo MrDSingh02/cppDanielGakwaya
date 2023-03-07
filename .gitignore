@@ -33,3 +33,6 @@
 
 #my Chages
 *.vscode
+*.clang
+*.gcc
+

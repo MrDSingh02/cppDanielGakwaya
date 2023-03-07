@@ -15,8 +15,29 @@ int main(int argc, char const *argv[])
     <<std::endl;
     std::cout<<" == == == == == == == == == == == == == == == == == == == == == == == == == == == == == "
     <<std::endl;
+/* 
+    //todo: Braced initializers
+    int elephant_count;
 
-    
+    int lion_count{};//* initializes to zero
+
+    int dog_count{10}; // initializes to 10
+
+    int cat_count{15}; // inotializes to 15
+
+    // Can use expression as initializer
+    int domestic_animal{dog_count+cat_count};
+
+    //ToDo: Printing
+    std::cout << "elephant_count : "<<elephant_count <<std::endl;    
+    std::cout << "Lion : " <<lion_count<<std::endl;
+    std::cout << "Dog : " <<dog_count<<std::endl;
+    std::cout << "Cat : " <<cat_count<<std::endl;
+    std::cout << "Domestic Animal : " <<domestic_animal<<std::endl;  
+ */
+    //! don't use variable that doesn't declare.
+    //int lo{doesn't_exist}  
+
     
     std::cout<<" == == == == == == == == == == == == == == == == == == == == == == == == == == == == == "
     <<std::endl;
