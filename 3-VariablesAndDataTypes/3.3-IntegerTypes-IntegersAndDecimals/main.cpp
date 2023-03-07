@@ -35,6 +35,7 @@ int main(int argc, char const *argv[])
     std::cout << "Cat : " <<cat_count<<std::endl;
     std::cout << "Domestic Animal : " <<domestic_animal<<std::endl;  
  */
+/* 
     //! don't use variable that doesn't declared.
     //int lo{doesn't_exist}  
 
@@ -53,7 +54,23 @@ int main(int argc, char const *argv[])
     std::cout <<"Orange Count : "<<orage<< std::endl;
     std::cout <<"Total Fruit Count : "<<fruits<< std::endl;
     std::cout <<"Narrowing Conversion Function : "<< std::endl;
+ */
 
+    //ToDo: Assignment notation
+    int bike_count = 2;
+    int truck_count = 7;
+    int vehicle_count = bike_count+truck_count;
+    int narrowing_conversion_assignment =2.9;
+
+    //ToDo: Printing The Assignment Notation
+    std::cout<<"Bike Count : "<<bike_count<<std::endl;
+    std::cout<<"truck Count : "<<truck_count<<std::endl;
+    std::cout<<"Vehicle Count : "<<vehicle_count<<std::endl;
+    std::cout<<"Narrowing Conversion Assignment : "<<narrowing_conversion_assignment<<std::endl;
+
+    //ToDo: Check The size with sizeof
+    std::cout<<"sizeof int : "<<sizeof(int)<<std::endl;
+    std::cout<<"size of truck_count : "<<sizeof(truck_count)<<std::endl;
     
     std::cout<<" == == == == == == == == == == == == == == == == == == == == == == == == == == == == == "
     <<std::endl;

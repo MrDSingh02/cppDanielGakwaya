@@ -34,26 +34,43 @@ Code : | 3H : 29M : 34S |
 ### Functional Variable initalization
 
 ![Functional Variable initialization](./img/3-functionalVariables.png "FUNCTIONAL VARIABLE INITIALIZATION")
-Result:
+Result: `./build.gcc`
 
-    3.3 Integers Type : Integer and Decimals Introduction 
-     == == == == == == == == == == == == == == == == == == == == == == == == == == == == == 
-    Apple Count : 5
-    Orange Count : 10
-    Total Fruit Count : 15
-    Narrowing Conversion Function : 
-     == == == == == == == == == == == == == == == == == == == == == == == == == == == == == 
-Warning: 
+    >> 3.3 Integers Type : Integer and Decimals Introduction 
+    >>  == == == == == == == == == == == == == == == == == == == == == == == == == == == == == 
+    >> Apple Count : 5
+    >> Orange Count : 10
+    >> Total Fruit Count : 15
+    >> Narrowing Conversion Function : 
+    >>  == == == == == == == == == == == == == == == == == == == == == == == == == == == == == 
+Warning: `g++ -std=c++20 -o build.gcc main.cpp`
 
-    main.cpp:49:41: warning: implicit conversion from 'double' to 'int' changes value from 2.9 to 2 [-Wliteral-conversion]
-        int narrowing_conversion_functional(2.9);
-            ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ ^~~
-    1 warning generated.
+    >> main.cpp:49:41: warning: implicit conversion from 'double' to 'int' changes value from 2.9 to 2 [-Wliteral-conversion]
+    >>     int narrowing_conversion_functional(2.9);
+    >>         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ ^~~
+    >> 1 warning generated.
 
 ### Assignment Initialization
 
 ![Assignment Initialization](./img/4-assignmentINITIALIZATION.png "ASSIGNMENT INTIALIZATION")
 
+Warning : `g++ -std=c++20 -o build.gcc main.cpp`
+
+    >> main.cpp:63:42: warning: implicit conversion from 'double' to 'int' changes value from 2.9 to 2 [-Wliteral-conversion]
+    >>     int narrowing_conversion_assignment =2.9;
+    >>         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~  ^~~
+    >> 1 warning generated.
+
+Result : `./build.gcc`
+
+    >> 3.3 Integers Type : Integer and Decimals Introduction 
+    >>  == == == == == == == == == == == == == == == == == == == == == == == == == == == == == 
+    >> Bike Count : 2
+    >> truck Count : 7
+    >> Vehicle Count : 9
+    >> Narrowing Conversion Assignment : 2
+    >>  == == == == == == == == == == == == == == == == == == == == == == == == == == == == == 
+    
 ## Size of a Type in Memory
 
 ![size of a type](./img/5-sizeOFType.png "size of a type in memory")
