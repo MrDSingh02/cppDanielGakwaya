@@ -1,8 +1,8 @@
 // ! Template
 // ? Time :||
 // * Code :||
-// Todo: | g++ -std=c++20 -o gccBuild main.cpp |
-// Todo: | clang++ -std=c++20 -o clangBuild main.cpp |
+// Todo: | g++ -std=c++20 -o build.gcc main.cpp |
+// Todo: | clang++ -std=c++20 -o build.clang main.cpp |
 // // 
 /*
 # CH 3 Variables And Data Types
