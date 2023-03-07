@@ -34,6 +34,21 @@ Code : | 3H : 29M : 34S |
 ### Functional Variable initalization
 
 ![Functional Variable initialization](./img/3-functionalVariables.png "FUNCTIONAL VARIABLE INITIALIZATION")
+Result:
+
+    3.3 Integers Type : Integer and Decimals Introduction 
+     == == == == == == == == == == == == == == == == == == == == == == == == == == == == == 
+    Apple Count : 5
+    Orange Count : 10
+    Total Fruit Count : 15
+    Narrowing Conversion Function : 
+     == == == == == == == == == == == == == == == == == == == == == == == == == == == == == 
+Warning: 
+
+    main.cpp:49:41: warning: implicit conversion from 'double' to 'int' changes value from 2.9 to 2 [-Wliteral-conversion]
+        int narrowing_conversion_functional(2.9);
+            ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ ^~~
+    1 warning generated.
 
 ### Assignment Initialization
 
