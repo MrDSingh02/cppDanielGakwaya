@@ -1,6 +1,7 @@
 // ! Template
 // ? Time :||
 // * Code :| 4h : 03m : 44s |
+// RemTime | 26h : 50m : 49s |
 // Todo: | g++ -std=c++20 -o build.gcc main.cpp |
 // Todo: | clang++ -std=c++20 -o build.clang main.cpp |
 // // 
@@ -11,6 +12,7 @@
 
 Time : | 3h : 05m : 06s |
 Code : | 4h : 03m : 44s |
+RemTime | 26h : 50m : 49s |
 * [main.cpp](./main.cpp)
 * [Home](/README.md)
 
