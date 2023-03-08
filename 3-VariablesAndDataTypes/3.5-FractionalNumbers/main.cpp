@@ -1,6 +1,6 @@
 //! 3.5 Fractional Numbers
 // ? Time :| 3h : 54m : 02s |
-// * Code :||
+// * Code :| 4h : 03m : 44s |
 // Todo: | g++ -std=c++20 -o build.gcc main.cpp |
 // Todo: | clang++ -std=c++20 -o build.clang main.cpp |
 // // 

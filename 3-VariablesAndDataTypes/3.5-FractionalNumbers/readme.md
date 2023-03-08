@@ -3,7 +3,7 @@
 # 3.5 Fractional Numbers
 
 Time : | 3h : 54m : 02s |
-Code : | |
+Code : | 4h : 03m : 44s |
 * [main.cpp](./main.cpp)
 * [Home](/README.md)
 
@@ -26,3 +26,15 @@ Precision Gone Wrong
 
 Scientific Notation
 ![Fractional Numbers](./img/6-scincetific-notation.png)
+
+Floating Point Numbers In Memory
+![Fractional Numbers](./img/7-floating-point-in-memory.png)
+
+>Dont's 
+![Fractional Numbers](./img/8-notes.png)
+>Dividing floting point Number with zero gives Infinity and dividing zero with zero gives NaN. So DOn't do it.
+![Fractional Numbers](./img/9-notes.png)
+
+>* Remember the suffix when initializing floating point variables, otherwise the default will be double
+>* Double works Well in many Situations so you will see it used a lot.
+![Fractional Numbers](./img/10-declaration.png)
