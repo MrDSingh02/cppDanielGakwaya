@@ -1,18 +1,18 @@
 // ! Template
-// ? Time :||
-// * Code :| 4h : 03m : 44s |
-// RemTime | 26h : 50m : 49s |
+// ? Start Time :           | 04h : 16m : 40s |
+//*  Code Time  :           | 04h : 19m : 27s |
+//*  Left Time  :           | 26h : 42m : 37s |
 // Todo: | g++ -std=c++20 -o build.gcc main.cpp |
 // Todo: | clang++ -std=c++20 -o build.clang main.cpp |
-// // 
+// del 
 /*
 # CH 3 Variables And Data Types
 
 # 3.2 Number Systems
 
-Time : | 3h : 05m : 06s |
-Code : | 4h : 03m : 44s |
-RemTime | 26h : 50m : 49s |
+Start Time :           | 04h : 16m : 40s |
+Code Time  :           | 04h : 19m : 27s |
+Left Time  :           | 26h : 42m : 37s |
 * [main.cpp](./main.cpp)
 * [Home](/README.md)
 

@@ -2,9 +2,9 @@
 
 # 3.6 Booleans
 
-Time : | 4h : 16m : 40s |
-Code : | 4h : 19m : 27s |
-RemTime | 26h : 50m : 49s |
+Start Time :           | 04h : 16m : 40s |
+Code Time  :           | 04h : 19m : 27s |
+Left Time  :           | 26h : 42m : 37s |
 * [main.cpp](./main.cpp)
 * [Home](/README.md)
 
