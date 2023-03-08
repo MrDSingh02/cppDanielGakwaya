@@ -78,8 +78,34 @@ int main(int argc, char const *argv[])
     std::cout<< "long_long_int : "<<long_long_int <<std::endl;
     std::cout<< "signed_long_long_int : "<<signed_long_long_int <<std::endl;
     std::cout<< "signed_long_long : "<<signed_long_long <<std::endl;    
-    std::cout<< "unsigned_long_long_int : "<<unsigned_long_long_int <<std::endl;        
-    
+    std::cout<< "unsigned_long_long_int : "<<unsigned_long_long_int <<std::endl;  
+          
+    std::cout<<"------- sizeof() ----------"<<std::endl;
+
+    std::cout<<" sizeof( short_var : "          <<sizeof( short_var)<<std::endl;
+    std::cout<<" sizeof( short_int : "          <<sizeof( short_int) <<std::endl;
+    std::cout<<" sizeof( signed_short : "       <<sizeof( signed_short)<<std::endl;
+    std::cout<<" sizeof( signed_short_int : "   <<sizeof( signed_short_int)<<std::endl;
+    std::cout<<" sizeof( unsigned_short_int : " <<sizeof( unsigned_short_int) <<std::endl;
+
+    std::cout<<"sizeof( int_var : "     <<sizeof( int_var)<<std::endl;
+    std::cout<<"sizeof( signed_var : "  <<sizeof( signed_var)<<std::endl;
+    std::cout<<"sizeof( signed_int : "  <<sizeof( signed_int)<<std::endl;
+    std::cout<<"sizeof( unsigned_int : "<<sizeof( unsigned_int)<<std::endl;   
+
+    std::cout<<"sizeof( long_var : "<<sizeof( long_var) <<std::endl;
+    std::cout<<"sizeof( long_int : "<<sizeof( long_int) <<std::endl;
+    std::cout<<"sizeof( signed_long : "<<sizeof( signed_long) <<std::endl;
+    std::cout<<"sizeof( signed_long_int : "<<sizeof( signed_long_int) <<std::endl;    
+    std::cout<<"sizeof( unsigned_long_int : "<<sizeof( unsigned_long_int) <<std::endl;
+
+     std::cout<<"sizeof( long_long : "<<sizeof( long_long) <<std::endl;
+    std::cout<< "sizeof( long_long_int : "<<sizeof( long_long_int) <<std::endl;
+    std::cout<< "sizeof( signed_long_long_int : "<<sizeof( signed_long_long_int) <<std::endl;
+    std::cout<< "sizeof( signed_long_long : "<<sizeof(signed_long_long)<<std::endl;    
+    std::cout<< "sizeof( unsigned_long_long_int : "<<sizeof( unsigned_long_long_int) <<std::endl;
+
+
     std::cout<<" == == == == == == == == == == == == == == == == == == == == == == == == == == == == == "
     <<std::endl;
     return 0;
