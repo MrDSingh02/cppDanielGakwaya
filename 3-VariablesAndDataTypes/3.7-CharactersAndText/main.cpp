@@ -26,6 +26,13 @@ int main(int argc, char const *argv[])
     std::cout<<c3<<std::endl;
     std::cout<<c4<<std::endl;
     std::cout<<c5<<std::endl;
+
+    // One byte in memory : 2^8 = 256 different value ( 0 ~ 255 )
+    std::cout<<std::endl;
+
+    char value =65; //ASCII character Code for 'A'
+    std::cout<<"Value : "<<value<<std::endl;
+    std::cout<<"Value(int) : "<<static_cast<int>(value)<<std::endl;
     
     std::cout<<" == == == == == == == == == == == == == == == == == == == == == == == == == == == == == "<<std::endl;
     return 0;
