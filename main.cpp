@@ -10,9 +10,11 @@
 
 # 3.2 Number Systems
 
-Start Time :           | 04h : 16m : 40s |
-Code Time  :           | 04h : 19m : 27s |
-Left Time  :           | 26h : 42m : 37s |
+||Time (00H : 00Min : 00 Sec)|
+|-|-|
+ |Start Time           | 04H : 24Min : 51 Sec |  
+ |Code  Time           | 04H : 19Min : 27 Sec |  
+ |Left  Time           | 26H : 42Min : 37 Sec |  
 * [main.cpp](./main.cpp)
 * [Home](/README.md)
 
