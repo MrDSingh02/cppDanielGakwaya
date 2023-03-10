@@ -69,7 +69,7 @@ Here are all the topics covered in this course:
 ### 3.6[Booleans](./3-VariablesAndDataTypes/3.6-Booleans/readme.md)
 ### 3.7[Characters And Text](./3-VariablesAndDataTypes/3.7-CharactersAndText/readme.md)
 ### 3.8[Auto](./3-VariablesAndDataTypes/3.8-Auto/readme.md)
-### 3.9[Assignments]()
+### 3.9[Assignments](./3-VariablesAndDataTypes/3.9-Assignments/readme.md)
 ### 3.10[Variables and data types summary]()
 
 ---
