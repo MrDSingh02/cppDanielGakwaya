@@ -35,4 +35,5 @@
 *.vscode
 *.clang
 *.gcc
+*.DS_Store
 
