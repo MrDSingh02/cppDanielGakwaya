@@ -78,18 +78,18 @@ Here are all the topics covered in this course:
        
 > Timeline [04h:46m:46s](https://www.youtube.com/watch?v=8jLOx1hD3_o&t=17206s)
 
-* Introduction on Data operations
-* Basic Operations
-* Precedence and Associativity
-* Prefix/Postfix Increment & Decrement
-* Compound Assignment Operators
-* Relational Operators
-* Logical Operators
-* Output formatting
-* Numeric Limits
-* Math Functions
-* Weird Integral Types
-* Data Operations Summary
+* [Introduction on Data operations](./4-Operations-On-Data/4.1-introduction/readme.md)
+* [Basic Operations](./4-Operations-On-Data/4.2-basic-operations/readme.md)
+* [Precedence and Associativity]()
+* [Prefix/Postfix Increment & Decrement]()
+* [Compound Assignment Operators]()
+* [Relational Operators]()
+* [Logical Operators]()
+* [Output formatting]()
+* [Numeric Limits]()
+* [Math Functions]()
+* [Weird Integral Types]()
+* [Data Operations Summary]()
 
 ---
 
