@@ -1,7 +1,7 @@
-// ! 4.1 Introduction
-// ? Start Time :           | 00H : 00Min : 00 Sec |
-//*  Code Time  :           | 00H : 00Min : 00 Sec |
-//*  Left Time  :           | 00H : 00Min : 00 Sec |
+// ! 4.3 Precedence And Associativity
+// ? |Lesson Start           | 00H : 00Min : 00 Sec |
+//*  |Code Start             | 00H : 00Min : 00 Sec |
+//*  |Next Lesson            | 00H : 00Min : 00 Sec |
 // Todo: | g++ -std=c++20 -o build.gcc main.cpp |
 // Todo: | clang++ -std=c++20 -o build.clang main.cpp |
 // del 
