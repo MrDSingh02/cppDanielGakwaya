@@ -82,7 +82,7 @@ Here are all the topics covered in this course:
 * [Basic Operations](./4-Operations-On-Data/4.2-basic-operations/readme.md)
 * [Precedence and Associativity](./4-Operations-On-Data/4.3-Precedence-And-associativity/readme.md)
 * [Prefix/Postfix Increment & Decrement](./4-Operations-On-Data/4.4-prefix-postfix-increment%26decrement/readme.md)
-* [Compound Assignment Operators]()
+* [Compound Assignment Operators](./4-Operations-On-Data/4.5-compound-assignment-operators/readme.md)
 * [Relational Operators]()
 * [Logical Operators]()
 * [Output formatting]()
