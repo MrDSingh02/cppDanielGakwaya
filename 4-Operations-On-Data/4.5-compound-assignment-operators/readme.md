@@ -6,7 +6,7 @@
 |-|-|
  |Lesson Start           | 05H : 23Min : 26 Sec |  
  |Code Start             | 05H : 26Min : 37 Sec |  
- |Next Lesson            | 00H : 00Min : 00 Sec | 
+ |Next Lesson            | 05H : 31Min : 44 Sec | 
 * [main.cpp](./main.cpp)
 * [Home](/README.md)
 
