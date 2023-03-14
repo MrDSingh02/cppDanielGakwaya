@@ -85,7 +85,7 @@ Here are all the topics covered in this course:
 * [Compound Assignment Operators](./4-Operations-On-Data/4.5-compound-assignment-operators/readme.md)
 * [Relational Operators](./4-Operations-On-Data/4.6-relational-operators-comparing-stuff/readme.md)
 * [Logical Operators](./4-Operations-On-Data/4.7-logical-operators/readme.md)
-* [Output formatting]()
+* [Output formatting](./4-Operations-On-Data/4.8-output-formating/readme.md)
 * [Numeric Limits]()
 * [Math Functions]()
 * [Weird Integral Types]()
