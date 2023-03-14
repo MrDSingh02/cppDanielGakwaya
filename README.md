@@ -84,7 +84,7 @@ Here are all the topics covered in this course:
 * [Prefix/Postfix Increment & Decrement](./4-Operations-On-Data/4.4-prefix-postfix-increment%26decrement/readme.md)
 * [Compound Assignment Operators](./4-Operations-On-Data/4.5-compound-assignment-operators/readme.md)
 * [Relational Operators](./4-Operations-On-Data/4.6-relational-operators-comparing-stuff/readme.md)
-* [Logical Operators]()
+* [Logical Operators](./4-Operations-On-Data/4.7-logical-operators/readme.md)
 * [Output formatting]()
 * [Numeric Limits]()
 * [Math Functions]()
