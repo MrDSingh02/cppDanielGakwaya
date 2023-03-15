@@ -86,7 +86,7 @@ Here are all the topics covered in this course:
 * [Relational Operators](./4-Operations-On-Data/4.6-relational-operators-comparing-stuff/readme.md)
 * [Logical Operators](./4-Operations-On-Data/4.7-logical-operators/readme.md)
 * [Output formatting](./4-Operations-On-Data/4.8-output-formating/readme.md)
-* [Numeric Limits]()
+* [Numeric Limits](./4-Operations-On-Data/4.9-numeric-limits/readme.md)
 * [Math Functions]()
 * [Weird Integral Types]()
 * [Data Operations Summary]()
