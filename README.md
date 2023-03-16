@@ -87,7 +87,7 @@ Here are all the topics covered in this course:
 * [Logical Operators](./4-Operations-On-Data/4.7-logical-operators/readme.md)
 * [Output formatting](./4-Operations-On-Data/4.8-output-formating/readme.md)
 * [Numeric Limits](./4-Operations-On-Data/4.9-numeric-limits/readme.md)
-* [Math Functions]()
+* [Math Functions](./4-Operations-On-Data/4.10-math-function/readme.md)
 * [Weird Integral Types]()
 * [Data Operations Summary]()
 
