@@ -88,8 +88,8 @@ Here are all the topics covered in this course:
 * [Output formatting](./4-Operations-On-Data/4.8-output-formating/readme.md)
 * [Numeric Limits](./4-Operations-On-Data/4.9-numeric-limits/readme.md)
 * [Math Functions](./4-Operations-On-Data/4.10-math-function/readme.md)
-* [Weird Integral Types]()
-* [Data Operations Summary]()
+* [Weird Integral Types](./4-Operations-On-Data/4.11-weird-integral-types/readme.md)
+* [Data Operations Summary](./4-Operations-On-Data/4.12-summary/readme.md)
 
 ---
 
@@ -97,12 +97,12 @@ Here are all the topics covered in this course:
       
 > Timeline [07h:01m:58s](https://www.youtube.com/watch?v=8jLOx1hD3_o&t=25318s)
 
-*  Flow Control Introduction
-*  If Statements
-*  Else If
-*  Switch
-*  Ternary Operators
-*  Flow Control Summary
+*  [Flow Control Introduction]()
+*  [If Statements]()
+*  [Else If]()
+*  [Switch]()
+*  [Ternary Operators]()
+*  [Flow Control Summary]()
 
 ---
 
