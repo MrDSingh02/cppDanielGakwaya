@@ -97,8 +97,8 @@ Here are all the topics covered in this course:
       
 > Timeline [07h:01m:58s](https://www.youtube.com/watch?v=8jLOx1hD3_o&t=25318s)
 
-*  [Flow Control Introduction]()
-*  [If Statements]()
+*  [Flow Control Introduction](./5-flow-control-conditional-programming/5.1-flow-control-introduction/readme.md)
+*  [If Statements](./5-flow-control-conditional-programming/5.2-if-stetements/readme.md)
 *  [Else If]()
 *  [Switch]()
 *  [Ternary Operators]()
