@@ -2,7 +2,7 @@
 // ! 5.3 Else if
 // ? |Lesson Start           | 07H : 20Min : 51 Sec |
 //*  |Code Start             | 07H : 23Min : 54 Sec |
-//*  |Next Lesson            | 00H : 00Min : 00 Sec |
+//*  |Next Lesson            | 07H : 28Min : 49 Sec |
 // >>: | g++ -std=c++20 -o build.gcc main.cpp |
 // ||: | clang++ -std=c++20 -o build.clang main.cpp |
 // del 
