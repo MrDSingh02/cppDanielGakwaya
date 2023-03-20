@@ -2,25 +2,11 @@
 // ! 5.4 Switch
 // ? |Lesson Start           | 07H : 28Min : 49 Sec |
 //*  |Code Start             | 07H : 31Min : 54 Sec |
-//*  |Next Lesson            | 00H : 00Min : 00 Sec |
+//*  |Next Lesson            | 07H : 42Min : 48 Sec |
 // >>: | g++ -std=c++20 -o build.gcc main.cpp |
 // ||: | clang++ -std=c++20 -o build.clang main.cpp |
 // del 
 /*
-# Chapter 5: Flow Control
-
-## 5.4 Switch
-
-||Time (00H : 00Min : 00 Sec)|
-|-|-|
- |Lesson Start           | 07H : 28Min : 49 Sec |  
- |Code Start             | 07H : 31Min : 54 Sec |  
- |Next Lesson            | 00H : 00Min : 00 Sec | 
-* [main.cpp](./main.cpp)
-* [Home](/README.md)
-* [pdf]()
-
----
 
 */
 #include<iostream>
