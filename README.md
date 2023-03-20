@@ -101,7 +101,7 @@ Here are all the topics covered in this course:
 *  [If Statements](./5-flow-control-conditional-programming/5.2-if-stetements/readme.md)
 *  [Else If](./5-flow-control-conditional-programming/5.4-switch/readme.md)
 *  [Switch](./5-flow-control-conditional-programming/5.4-switch/readme.md)
-*  [Ternary Operators]()
+*  [Ternary Operators](./5-flow-control-conditional-programming/5.5-ternary-operator/readme.md)
 *  [Flow Control Summary]()
 
 ---
