@@ -114,7 +114,7 @@ Here are all the topics covered in this course:
 *  For Loop
 *  While Loop
 *  Do While Loop
-
+g
 ---
 
 ## Chapter 7: Arrays
