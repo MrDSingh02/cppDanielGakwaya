@@ -2,7 +2,7 @@
 // ! 6.1 Loops Introduction
 // ? |Lesson Start           | 07H : 55Min : 20 Sec |
 //*  |Code Start             | 08H : 06Min : 32 Sec |
-//*  |Next Lesson            | 00H : 00Min : 00 Sec |
+//*  |Next Lesson            | 08H : 25Min : 23 Sec |
 // >>: | g++ -std=c++20 -o build.gcc main.cpp |
 // ||: | clang++ -std=c++20 -o build.clang main.cpp |
 // del 

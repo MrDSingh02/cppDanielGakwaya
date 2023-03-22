@@ -6,9 +6,9 @@
 |-|-|
  |Lesson Start           | 07H : 55Min : 20 Sec |  
  |Code Start             | 08H : 06Min : 32 Sec |  
- |Next Lesson            | 00H : 00Min : 00 Sec | 
+ |Next Lesson            | 08H : 25Min : 23 Sec | 
 * [main.cpp](./main.cpp)
 * [Home](/README.md)
-* [pdf]()
+* [pdf](./6.2-for-loop.pdf)
 
 ---

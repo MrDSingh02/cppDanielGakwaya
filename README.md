@@ -110,8 +110,8 @@ Here are all the topics covered in this course:
    
 > Timeline [07h:53m:49s](https://www.youtube.com/watch?v=8jLOx1hD3_o&t=28429s)
 
-*  [Loops Introduction]()
-*  [For Loop]()
+*  [Loops Introduction](./6-loops/6.1-introduction/readme.md)
+*  [For Loop](./6-loops/6.2-for-loop/readme.md)
 *  [While Loop]()
 *  [Do While Loop]()
 
