@@ -1,5 +1,5 @@
-// Chapter 5: Flow Control
-// ! 5.1 Flow Control Introduction
+// Chapter 6: Loops
+// ! 6.1 Loops Introduction
 // ? |Lesson Start           | 00H : 00Min : 00 Sec |
 //*  |Code Start             | 00H : 00Min : 00 Sec |
 //*  |Next Lesson            | 00H : 00Min : 00 Sec |
@@ -7,9 +7,9 @@
 // ||: | clang++ -std=c++20 -o build.clang main.cpp |
 // del 
 /*
-# Chapter 5: Flow Control
+# Chapter 6: Loops
 
-## 5.1 Flow Control Introduction
+## 6.1 Loops Introduction
 
 ||Time (00H : 00Min : 00 Sec)|
 |-|-|
@@ -27,7 +27,7 @@
 
 int main(int argc, char const *argv[])
 {
-    std::cout<<" 5.1 Flow Control Introduction "<<std::endl;
+    std::cout<<" 6.1 Loops Introduction "<<std::endl;
     std::cout<<" == == == == == == == == == == == == == == == == == == == == == == == == == == == == == "<<std::endl;
 
     
