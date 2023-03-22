@@ -110,11 +110,11 @@ Here are all the topics covered in this course:
    
 > Timeline [07h:53m:49s](https://www.youtube.com/watch?v=8jLOx1hD3_o&t=28429s)
 
-*  Loops Introduction
-*  For Loop
-*  While Loop
-*  Do While Loop
-g
+*  [Loops Introduction]()
+*  [For Loop]()
+*  [While Loop]()
+*  [Do While Loop]()
+
 ---
 
 ## Chapter 7: Arrays
