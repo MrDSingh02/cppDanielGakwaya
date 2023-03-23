@@ -9,6 +9,6 @@
  |Next Lesson            | 08H : 36Min : 55 Sec | 
 * [main.cpp](./main.cpp)
 * [Home](/README.md)
-* [pdf]()
+* [pdf](6.3-while-loop.pdf)
 
 ---
