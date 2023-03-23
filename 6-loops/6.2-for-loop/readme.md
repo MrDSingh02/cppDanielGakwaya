@@ -1,6 +1,6 @@
 # Chapter 6: Loops
 
-## 6.1 Loops Introduction
+## 6.2 For Loop
 
 ||Time (00H : 00Min : 00 Sec)|
 |-|-|
