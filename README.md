@@ -112,8 +112,8 @@ Here are all the topics covered in this course:
 
 *  [Loops Introduction](./6-loops/6.1-introduction/readme.md)
 *  [For Loop](./6-loops/6.2-for-loop/readme.md)
-*  [While Loop]()
-*  [Do While Loop]()
+*  [While Loop](./6-loops/6.3-while-loop/readme.md)
+*  [Do While Loop](./6-loops/6.4-do-while-loop/readme.md)
 
 ---
 
