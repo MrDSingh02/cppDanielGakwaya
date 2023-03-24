@@ -1,6 +1,6 @@
 // Chapter 7: Arrays
 // ! 7.1 Arrays Introduction
-// ? |Lesson Start           | 00H : 00Min : 00 Sec |
+// ? |Lesson Start           | 08H : 48Min : 45 Sec |
 //*  |Code Start             | 00H : 00Min : 00 Sec |
 //*  |Next Lesson            | 00H : 00Min : 00 Sec |
 // >>: | g++ -std=c++20 -o build.gcc main.cpp |
@@ -12,7 +12,7 @@
 
 ||Time (00H : 00Min : 00 Sec)|
 |-|-|
- |Lesson Start           | 00H : 00Min : 00 Sec |  
+ |Lesson Start           | 08H : 48Min : 45 Sec |  
  |Code Start             | 00H : 00Min : 00 Sec |  
  |Next Lesson            | 00H : 00Min : 00 Sec | 
 * [main.cpp](./main.cpp)

@@ -6,7 +6,7 @@
 |-|-|
  |Lesson Start           | 08H : 47Min : 13 Sec |  
  |Code Start             | 00H : 00Min : 00 Sec |  
- |Next Lesson            | 00H : 00Min : 00 Sec | 
+ |Next Lesson            | 08H : 48Min : 45 Sec | 
 
 * [Home](/README.md)
 * [pdf](./7.1-Arrays-introduction.pdf)
