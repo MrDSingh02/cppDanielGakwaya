@@ -121,11 +121,11 @@ Here are all the topics covered in this course:
       
 > Timeline [08h:47m:08s](https://www.youtube.com/watch?v=8jLOx1hD3_o&t=31628s)
 
-* Introduction to Arrays
-* Declaring and using arrays
-* Size of an array
-* Arrays of characters
-* Array Bounds
+* [Introduction to Arrays](./7-Arrays/7.1-introduction/readme.md)
+* [Declaring and using arrays]()
+* [Size of an array]()
+* [Arrays of characters]()
+* [Array Bounds]()
 
 ---
     
