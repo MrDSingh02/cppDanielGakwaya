@@ -7,8 +7,8 @@
  |Lesson Start           | 08H : 47Min : 13 Sec |  
  |Code Start             | 00H : 00Min : 00 Sec |  
  |Next Lesson            | 00H : 00Min : 00 Sec | 
-* [main.cpp](./main.cpp)
+
 * [Home](/README.md)
-* [pdf]()
+* [pdf](./7.1-Arrays-introduction.pdf)
 
 ---
