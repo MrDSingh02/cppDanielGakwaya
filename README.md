@@ -124,8 +124,8 @@ Here are all the topics covered in this course:
 * [Introduction to Arrays](./7-Arrays/7.1-introduction/readme.md)
 * [Declaring and using arrays](./7-Arrays/7.2-declaring-and-using-arrays/readme.md)
 * [Size of an array](./7-Arrays/7.3-size-of-an-array/readme.md)
-* [Arrays of characters]()
-* [Array Bounds]()
+* [Arrays of characters](./7-Arrays/7.4-array-of-characters/readme.md)
+* [Array Bounds](./7-Arrays/7.5-array-bounds/readme.md)
 
 ---
     
@@ -133,16 +133,16 @@ Here are all the topics covered in this course:
 
 > Timeline [09h:53m:23s](https://www.youtube.com/watch?v=8jLOx1hD3_o&t=35603s)
 
-* Introduction to Pointers
-* Declaring and using pointers
-* Pointer to char
-* Program Memory Map Revisited
-* Dynamic Memory Allocation
-* Dangling Pointers
-* When new Fails
-* Null Pointer Safety
-* Memory Leaks
-* Dynamically allocated arrays
+* [Introduction to Pointers]()
+* [Declaring and using pointers]()
+* [Pointer to char]()
+* [Program Memory Map Revisited]()
+* [Dynamic Memory Allocation]()
+* [Dangling Pointers]()
+* [When new Fails]()
+* [Null Pointer Safety]()
+* [Memory Leaks]()
+* [Dynamically allocated arrays]()
 
 ---
 
