@@ -2,7 +2,7 @@
 // ! 7.3 Size of An Array
 // ? |Lesson Start           | 09H : 15Min : 54 Sec |
 //*  |Code Start             | 09H : 18Min : 47 Sec |
-//*  |Next Lesson            | 00H : 00Min : 00 Sec |
+//*  |Next Lesson            | 09H : 26Min : 41 Sec |
 // >>: | g++ -std=c++20 -o build.gcc main.cpp |
 // ||: | clang++ -std=c++20 -o build.clang main.cpp |
 
