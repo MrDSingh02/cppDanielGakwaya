@@ -133,10 +133,10 @@ Here are all the topics covered in this course:
 
 > Timeline [09h:53m:23s](https://www.youtube.com/watch?v=8jLOx1hD3_o&t=35603s)
 
-* [Introduction to Pointers]()
-* [Declaring and using pointers]()
-* [Pointer to char]()
-* [Program Memory Map Revisited]()
+* [Introduction to Pointers](./8-pointers/8.1-introduction/readme.md)
+* [Declaring and using pointers](./8-pointers/8.2-declaring-%26-using-pointers/readme.md)
+* [Pointer to char](./8-pointers/8.3-pointer-to-char/readme.md)
+* [Program Memory Map Revisited](./8-pointers/8.4-program-memory-map/readme.md)
 * [Dynamic Memory Allocation]()
 * [Dangling Pointers]()
 * [When new Fails]()
