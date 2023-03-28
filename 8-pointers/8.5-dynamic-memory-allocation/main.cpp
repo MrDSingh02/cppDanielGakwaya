@@ -48,7 +48,12 @@ int main(int argc, char const *argv[])
 
     //>> Initializing Pointer to null
     // int *p_number3 {nullptr}; //Also works
-    int *p_number3{}; //
+    int *p_number3{}; //- Initialized with pointer equivalent of zero : nullptr
+                      //- A Pointer pointing nowhere
+    // *p_number3 = 33; //!  :BAD, CRASH
+
+    std::cout << std::endl;
+    std::cout << "Reading and Writting Through nullptr : " << std::endl; 
     
     std::cout<<" == == == == == == == == == == == == == == == == == == == == == == == == == == == == == "<<std::endl;
     return 0;
