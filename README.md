@@ -140,7 +140,7 @@ Here are all the topics covered in this course:
 * [Dynamic Memory Allocation](./8-pointers/8.5-dynamic-memory-allocation/readme.md)
 * [Dangling Pointers](./8-pointers/8.6-dangling-pointers/readme.md)
 * [When new Fails](./8-pointers/8.7-when-new-fails/readme.md)
-* [Null Pointer Safety]()
+* [Null Pointer Safety](./8-pointers/8.8-null-pointer-safety/readme.md)
 * [Memory Leaks]()
 * [Dynamically allocated arrays]()
 
