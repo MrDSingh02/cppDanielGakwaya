@@ -137,12 +137,12 @@ Here are all the topics covered in this course:
 * [Declaring and using pointers](./8-pointers/8.2-declaring-%26-using-pointers/readme.md)
 * [Pointer to char](./8-pointers/8.3-pointer-to-char/readme.md)
 * [Program Memory Map Revisited](./8-pointers/8.4-program-memory-map/readme.md)
-* [Dynamic Memory Allocation]()
-* [Dangling Pointers]()
-* [When new Fails]()
-* [Null Pointer Safety]()
-* [Memory Leaks]()
-* [Dynamically allocated arrays]()
+* [Dynamic Memory Allocation](./8-pointers/8.5-dynamic-memory-allocation/readme.md)
+* [Dangling Pointers](./8-pointers/8.6-dangling-pointers/readme.md)
+* [When new Fails](./8-pointers/8.7-when-new-fails/readme.md)
+* [Null Pointer Safety](./8-pointers/8.8-null-pointer-safety/readme.md)
+* [Memory Leaks](./8-pointers/8.9-memory-leaks/readme.md)
+* [Dynamically allocated arrays](./8-pointers/8.10-dynamically-allocated-arrays/readme.md)
 
 ---
 
