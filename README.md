@@ -142,7 +142,7 @@ Here are all the topics covered in this course:
 * [When new Fails](./8-pointers/8.7-when-new-fails/readme.md)
 * [Null Pointer Safety](./8-pointers/8.8-null-pointer-safety/readme.md)
 * [Memory Leaks](./8-pointers/8.9-memory-leaks/readme.md)
-* [Dynamically allocated arrays]()
+* [Dynamically allocated arrays](./8-pointers/8.10-dynamically-allocated-arrays/readme.md)
 
 ---
 
