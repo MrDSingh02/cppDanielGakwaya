@@ -150,10 +150,10 @@ Here are all the topics covered in this course:
      
 > Timeline [12h:11m:04s](https://www.youtube.com/watch?v=8jLOx1hD3_o&t=43864s)
 
-* Introduction to References
-* Declaring and using references
-* Comparing pointers and references
-* References and const
+* [Introduction to References](./9-references/9.1-intro/readme.md)
+* [Declaring and using references](./9-references/9.2-declaring-%26-using-references/readme.md)
+* [Comparing pointers and references](./9-references/9.3-comparing-references-to-pointers/readme.md)
+* [References and const](./9-references/9.4-references-%26-const/readme.md)
 
 ---
        
