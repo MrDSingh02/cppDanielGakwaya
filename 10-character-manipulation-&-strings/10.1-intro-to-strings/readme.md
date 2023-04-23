@@ -4,9 +4,9 @@
 |-|-|
  |Lesson Start           | 12H : 44Min : 26 Sec |  
  |Code Start             | 12H : 44Min : 26 Sec |  
- |Next Lesson            | 12H : 44Min : 26 Sec | 
+ |Next Lesson            | 12H : 46Min : 24 Sec | 
 * [main.cpp](./main.cpp)
 * [Home](/README.md)
-* [pdf]()
+* [pdf](./10.1-intro-to-strings.pdf)
 
 ---
