@@ -1,19 +1,19 @@
-// Chapter 9: References
-// ! 9.1 Introduction to References
-// ? |Lesson Start           | 00H : 00Min : 00 Sec |
-//-  |Code Start             | 00H : 00Min : 00 Sec |
-//-  |Next Lesson            | 00H : 00Min : 00 Sec |
+// Chapter 10: Character Manipulation and Strings
+// ! 10.1 Introduction to Strings
+// ? |Lesson Start           | 12H : 44Min : 26 Sec |
+//-  |Code Start             | 12H : 44Min : 26 Sec |
+//-  |Next Lesson            | 12H : 44Min : 26 Sec |
 // >>: | g++ -std=c++20 -o build.gcc main.cpp |
 // /: | clang++ -std=c++20 -o build.clang main.cpp |
 /// del 
 /*
-# Chapter 9: References
-## 9.1 Introduction to References
+# Chapter 10: Character Manipulation and Strings
+## 10.1 Introduction to Strings
 ||Time (00H : 00Min : 00 Sec)|
 |-|-|
- |Lesson Start           | 00H : 00Min : 00 Sec |  
- |Code Start             | 00H : 00Min : 00 Sec |  
- |Next Lesson            | 00H : 00Min : 00 Sec | 
+ |Lesson Start           | 12H : 44Min : 26 Sec |  
+ |Code Start             | 12H : 44Min : 26 Sec |  
+ |Next Lesson            | 12H : 44Min : 26 Sec | 
 * [main.cpp](./main.cpp)
 * [Home](/README.md)
 * [pdf]()
@@ -25,7 +25,7 @@
 
 int main(int argc, char const *argv[])
 {
-    std::cout<<" 9.1 Introduction to References "<<std::endl;
+    std::cout<<" 10.1 Introduction to Strings "<<std::endl;
     std::cout<<" == == == == == == == == == == == == == == == == == == == == == == == == == == == == == "<<std::endl;
 
     
