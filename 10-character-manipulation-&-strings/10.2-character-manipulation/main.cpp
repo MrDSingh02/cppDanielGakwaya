@@ -5,7 +5,7 @@
 //-  |Next Lesson            | 12H : 44Min : 26 Sec |
 // >>: | g++ -std=c++20 -o build.gcc main.cpp |
 // /: | clang++ -std=c++20 -o build.clang main.cpp |
-/// del Z
+/// del 
 /*
 # Chapter 10: Character Manipulation and Strings
 ## 10.2 Character Manipulation
